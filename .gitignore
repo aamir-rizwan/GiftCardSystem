@@ -1,0 +1,6 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/GiftCardSystem/.vs
+/GiftCardSystem/GiftCardSystemAPI/bin/Debug/net8.0
